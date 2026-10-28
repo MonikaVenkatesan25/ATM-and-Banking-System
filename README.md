@@ -1,8 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No: 212225100028
-# Name: MONIKA V
-# Date: 27-10-2026
-
+# Reg No:212225100028
+# Name: Monika V
+# Date:28/10/26
 
 
 # AIM:
@@ -48,11 +47,7 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
-
-
-<img width="1001" height="753" alt="633210086-04b98de6-bd21-44a1-a5fd-055d30b1a2ce" src="https://github.com/user-attachments/assets/1ece72fd-1820-46b9-9884-67f730016373" />
-
-
+<img width="1100" height="907" alt="image" src="https://github.com/user-attachments/assets/c498417d-dfeb-4b33-9dea-9a750dd8cdc1" />
 
 
 
@@ -69,7 +64,10 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
-<img width="960" height="680" alt="633210282-1f9020e0-5dd3-4b78-873a-ed9f3ad7a221" src="https://github.com/user-attachments/assets/d6acafa0-a8d1-4556-be73-9222b06b6778" />
+
+<img width="1026" height="732" alt="image" src="https://github.com/user-attachments/assets/224a20a5-d9c3-4dc3-a829-cdd79c3dd946" />
+
+
 
 
 
@@ -78,9 +76,9 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
-<img width="980" height="807" alt="633210747-799e816a-bf27-4a8b-861e-084affc7a158" src="https://github.com/user-attachments/assets/1ba1a93a-980f-4da0-a6ec-48d4d79eb4c5" />
 
 
+<img width="832" height="352" alt="Screenshot 2026-08-08 085505" src="https://github.com/user-attachments/assets/840ca0ff-6aca-4ed7-a41a-8c3922d556b5" />
 
 
 # PACKAGE DIAGRAM:
@@ -91,7 +89,9 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-<img width="982" height="657" alt="633210229-1f086e00-6924-43e5-b528-dd5eb090086a" src="https://github.com/user-attachments/assets/85d947e8-b5b6-4800-99ec-d41118ae6150" />
+<img width="1002" height="740" alt="image" src="https://github.com/user-attachments/assets/855c7229-9594-40ad-80e2-25ccac5f0423" />
+
+
 
 
 
@@ -111,7 +111,9 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-<img width="1050" height="1212" alt="633210635-f6568eaa-b8e4-402b-8a77-296d8ce5ef15" src="https://github.com/user-attachments/assets/b642a82c-3172-494b-8643-b00afb201bc1" />
+<img width="936" height="742" alt="image" src="https://github.com/user-attachments/assets/813a9e57-8624-4276-9d21-cacafc7c6c26" />
+
+
 
 
 
@@ -133,8 +135,8 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
-<img width="1092" height="713" alt="633210166-4b899040-f3bb-45cf-aee6-5b5e3dbc06cb" src="https://github.com/user-attachments/assets/edf57ead-2c94-4c84-942c-c396f5f2e8c6" />
 
+<img width="1198" height="925" alt="Screenshot 2026-08-07 105803" src="https://github.com/user-attachments/assets/6de42f07-7cf2-4c58-a89f-dbfbf9856a82" />
 
 
 
@@ -142,4 +144,3 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
-
